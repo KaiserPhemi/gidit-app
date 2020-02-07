@@ -1,0 +1,17 @@
+@import url("../../../styles/_base.scss");
+
+.main-header {
+  display: flex;
+  justify-content: space-evenly;
+
+  .nav-bar-logo {
+  }
+
+  .nav-link-wrapper {
+    .link-text {
+      color: #010101;
+      padding: 0 10px;
+      text-decoration: none;
+    }
+  }
+}

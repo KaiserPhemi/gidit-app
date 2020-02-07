@@ -1,0 +1,8 @@
+.main-layout {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  width: 60%;
+  height: 100%;
+  margin: auto;
+  min-height: 100%;
+}

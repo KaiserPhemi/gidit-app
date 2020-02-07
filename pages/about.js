@@ -1,5 +1,5 @@
 // react libraries
-import React from "react";
+// import React from "react";
 
 //components
 import BaseLayout from "../components/shared/BaseLayout";
@@ -7,12 +7,12 @@ import BaseLayout from "../components/shared/BaseLayout";
 /**
  * @desc entry point of app
  */
-const Index = () => {
+const About = () => {
   return (
     <BaseLayout>
-      <p>Welcome to the home page</p>
+      <p>Contact Page</p>
     </BaseLayout>
   );
 };
 
-export default Index;
+export default About;
